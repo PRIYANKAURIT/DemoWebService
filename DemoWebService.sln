@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DemoWebService", "..\..\..\Downloads\DemoWebService\DemoWebService\", "{B329EED9-0970-4AF9-9070-17D080B45299}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51038"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\DemoWebService\DemoWebService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51038\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51038"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\DemoWebService\DemoWebService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51038\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51038"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B329EED9-0970-4AF9-9070-17D080B45299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B329EED9-0970-4AF9-9070-17D080B45299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1D876F1-286D-4C78-8208-3E94CC67AD00}
+	EndGlobalSection
+EndGlobal
